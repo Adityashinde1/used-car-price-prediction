@@ -15,12 +15,12 @@ def get_requirements_list() -> List[str]:
         return requirement_file.readlines().remove("-e .")
 
 setup(
-name="used-car-price-prediction",
-version="0.2",
-author="Aditya Shinde",
-description="With this project you can predict the used car prices",
-packages=find_packages(),
-install_requires=get_requirements_list()
+name = "used-car-price-prediction",
+version = "0.2",
+author = "Aditya Shinde",
+description = "With this project you can predict the used car prices",
+packages = find_packages(),
+install_requires = get_requirements_list()
 
 )
 
