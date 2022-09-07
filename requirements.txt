@@ -1,3 +1,7 @@
 Flask
 from_root
 ipykernel
+pandas
+sklearn
+numpy
+-e .
