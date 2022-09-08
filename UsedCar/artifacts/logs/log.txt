@@ -1,0 +1,4 @@
+[ 2022-09-08 13:24:56,792 ] UsedCar.config.configuration - INFO - Training pipleine config: TrainingPipelineConfig(artifact_dir='f:\\Used_Car_Price_Prediction\\used-car-price-prediction\\UsedCar\\artifact')
+[ 2022-09-08 13:25:15,814 ] UsedCar.config.configuration - ERROR - Error occurred python script name [configuration.py] line number [31] error message [name 'DATA_INGESTION_ARTIFACT_DIR' is not defined]
+[ 2022-09-08 13:26:05,498 ] UsedCar.config.configuration - INFO - Training pipleine config: TrainingPipelineConfig(artifact_dir='f:\\Used_Car_Price_Prediction\\used-car-price-prediction\\UsedCar\\artifact')
+[ 2022-09-08 13:26:38,613 ] UsedCar.config.configuration - ERROR - Error occurred python script name [configuration.py] line number [31] error message [name 'DATA_INGESTION_ARTIFACT_DIR' is not defined]
